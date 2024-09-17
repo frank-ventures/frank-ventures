@@ -18,6 +18,7 @@ This is Franks Github.
 - 💥 Enjoyed making this [Ainsley Harriot-themed Cookie Clicker](https://ainsley-clicksiott-ready-steady-click.vercel.app/) - [Repo here](https://github.com/frank-ventures/teched-week06-project).
 - 🖼️ ..and this [Unsplash Gallery Search App](https://frank-ventures.github.io/teched-week03-project/) - [Repo here](https://github.com/frank-ventures/teched-week03-project).
 - 🕹️ I'm steadily piecing together a [GameLog App](https://github.com/frank-ventures/GameLog), and wrestling with doing things well!
+- 💬 I'm also building a clone of the board game Articulate, called [DarkTiculate](https://darkticulate.vercel.app/) with my pal [Lewis Adams](https://www.linkedin.com/in/lewiswadams/). Be warned, the prompts range from "That's uncomfortable" to "Downright nasty"!
 - Experience in: HTML, CSS, JavaScript, React, NextJs, Node.js, NPM, Express, SQL, Linux OS's, Raspberry Pi's, Command Line, Notion, Excel Googling how to do things in all of those things...
 
 ### Linky things
