@@ -4,7 +4,8 @@ This is Franks Github.
 
 ### Me stuff
 
-- 👨‍🏫 Currently working for [TechEducators](https://techeducators.co.uk/) as a Software Teaching Assistant & Location Lead.
+- 👨‍🏫 Currently working for [TechEducators](https://techeducators.co.uk/) as an Instructor.
+- 🧢 [This is my portfolio website](https://www.frankieshrieves.co.uk/). It's under construction like all good things.
 - 🤩 Fun fact: In one adventure, I rode a Bajaj Avenger motorbike around India for a good 6 months.
 - 🔨 I love to understand things *(sometimes to a fault)*, and have been disassembling and repairing things since knee height *(that's 60cm in metric units)*.
 - 🏔️ I've been an Outdoor Activity Instructor, Parkour Coach, Forest School Leader, Gardener and worn a whole bunch of other hats.
